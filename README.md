@@ -50,6 +50,8 @@ Check our demo instance : **95.179.210.152** / username: **user@runtipi.com** / 
 - [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server
 - [Transmission](https://github.com/transmission/transmission) - Fast, easy, and free BitTorrent client
 - [Wireguard Easy](https://github.com/WeeJeWel/wg-easy) - WireGuard VPN + Web-based Admin UI
+- [Adguard Home](https://github.com/AdguardTeam/AdGuardHome) - Adguard Home DNS adblocker
+- [Bookstack](https://github.com/BookStackApp/BookStack) - BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information.
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server
 
 ## 🛠 Installation
